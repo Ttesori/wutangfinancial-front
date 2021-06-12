@@ -1,0 +1,3 @@
+6/12/2021
+- Cleaned up auto-generated items from CRA to start with a clean app (T)
+- Created app using create-react-app; use yarn start to run (T)
